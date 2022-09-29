@@ -1,0 +1,7 @@
+Name:[ Shashank]
+ Phone Number:[ 929938298]
+ Guests: 24
+Desserts:[ Simple White Cake]
+ Dishes:[  Garlic ChickenMaple Salmon] 
+ Cost:$ 840
+ -------------
